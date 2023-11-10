@@ -1,0 +1,4 @@
+kubiya
+pydantic
+requests
+tabulate
